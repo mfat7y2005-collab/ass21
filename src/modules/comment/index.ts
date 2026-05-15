@@ -1,0 +1,1 @@
+export {default as commentRoter} from './comment.controller'

@@ -1,0 +1,4 @@
+export enum EmailEnum{
+    COONFIRM_EMAIL="COONFIRM_EMAIL",
+    FORGET_PASSWORD="FORGET_PASSWORD"
+}
